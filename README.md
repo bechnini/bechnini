@@ -1,8 +1,5 @@
 <h1 align="center">Im bernini</h1>
 <h3 align="center">I love Hacking , Robotics , Linux</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barnoun0&label=Profile%20views&color=0e75b6&style=flat" alt="barnoun0" /> </p>
-
 <p align="left">
 </p>
 
