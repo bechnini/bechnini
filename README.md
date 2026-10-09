@@ -1,5 +1,5 @@
 <h1 align="center">Im bernini</h1>
-<h3 align="center">I love Hacking , Robotics , Linux</h3>
+<h3 align="center">I love Hacking , Networking And Robotics</h3>
 <p align="left">
 </p>
 
